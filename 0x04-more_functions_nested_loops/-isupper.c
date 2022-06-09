@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-excellent
-=======
 #include "main.h"
 #include <ctype.h>
 /**
@@ -20,4 +17,3 @@ int _isupper(int c)
 		return (1);
 	}
 }
->>>>>>> 0347b2251119953c430666370d5f0d08e460c9a6
